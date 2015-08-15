@@ -2,15 +2,8 @@
 layout: page
 ---
 
-He just started as a postdoctoral fellow in [Bence Nanay](http://uahost.uantwerpen.be/bence.nanay/)'s research group at the University of Antwerp. He has a Ph.D. in philosophy from [UCL](https://www.ucl.ac.uk/philosophy), and recently was a visiting researcher at the [University of Toronto](http://www.philosophy.utoronto.ca).
+Welcome! I'm the WYNG Research Fellow and Director of Studies in Philosophy at [Trinity Hall](http://www.trinhall.cam.ac.uk), University of Cambridge. I'm also a Postdoctoral Research Fellow on Cambridge's exciting new philosophy of mind project: New Directions in the Philosophy of Mind.
 
-Maarten thinks and writes about current developments in philosophy of mind and perception, psychology, and the history of analytic philosophy.
+My main areas of research and teaching are the philosophy of mind & psychology, epistemology, and the history of early modern philosophy. These link up in my work as I want to understand core aspects of our mental lives such as perceiving and knowing, and I want to consider these matters with an eye on the rich insights to be found in the philosophies of the early modern period.
 
-In his doctoral work, [_Appearance and Representation_](http://msteenhagen.github.io/Appearance-and-representation/), he defends a new approach to images.
-
-Maarten gives frequent [talks](http://msteenhagen.github.io/talks/). He can be reached via [email](mailto:m.steenhagen@mail.utoronto.ca) or shouted at on [Twitter](http://www.twitter.com/msteenhagen).
-
-  
-
-  
-
+To get in touch, please email me.
