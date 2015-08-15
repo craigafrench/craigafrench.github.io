@@ -2,8 +2,6 @@
 layout: page
 ---
 
-Maarten Steenhagen is a philosopher, writer and coffee lover known for his wild ideas about images.
-
 He just started as a postdoctoral fellow in [Bence Nanay](http://uahost.uantwerpen.be/bence.nanay/)'s research group at the University of Antwerp. He has a Ph.D. in philosophy from [UCL](https://www.ucl.ac.uk/philosophy), and recently was a visiting researcher at the [University of Toronto](http://www.philosophy.utoronto.ca).
 
 Maarten thinks and writes about current developments in philosophy of mind and perception, psychology, and the history of analytic philosophy.
