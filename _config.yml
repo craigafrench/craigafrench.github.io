@@ -7,6 +7,10 @@ url:			  http://craigafrench.github.io
 name: 	Craig French
 email: 	craig@craigfrench.co.uk
 
+# Google Analytics
+google_analytics: 	UA-66399450-1
+google_verify: 		UA-66399450-1
+
 # CV location
 cv:			/assets/CraigFrenchCV.pdf
 
@@ -14,3 +18,4 @@ cv:			/assets/CraigFrenchCV.pdf
 twitter:	earlymodphil
 instagram:	craigfrench1
 flickr:		craigfrench
+
