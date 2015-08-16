@@ -6,4 +6,4 @@ Welcome! I'm the WYNG Research Fellow in Philosophy at [Trinity Hall](http://www
 
 My main areas of research and teaching are the philosophy of mind & psychology and metaphysics & epistemology. I also have a strong interest in various aspects of the history of philosophy.
 
-For publications, work in progress, etc please see my [research page](http:\\craigafrench.github.io/research), you can find my CV [here](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/CraigFrenchCV.pdf), and to get in touch please send me an email.
+To find out more about my work and publications please see my [research page](http:\\craigafrench.github.io/research), my [CV is here](https://dl.dropboxusercontent.com/u/3913409/Site%20Content/CraigFrenchCV.pdf), and to get in touch please send me an email.
