@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Welcome! I'm the WYNG Research Fellow in Philosophy at [Trinity Hall](http://www.trinhall.cam.ac.uk), [University of Cambridge](http://www.cam.ac.uk). I'm also a Postdoctoral Research Fellow on an exciting new philosophy of mind project: [New Directions in the Study of the Mind](http://www.newdirectionsproject.com) funded by the [John Templeton Foundation](http://www.templeton.org/) and based at Cambridge's [Faculty of Philosophy](http://www.phil.cam.ac.uk).
+Welcome to the homepage of Craig French! I'm the [WYNG](http://wyng.hk/wp/) Research Fellow in Philosophy at [Trinity Hall](http://www.trinhall.cam.ac.uk), [University of Cambridge](http://www.cam.ac.uk). I'm also a Postdoctoral Research Fellow on an exciting new philosophy of mind project: [New Directions in the Study of the Mind](http://www.newdirectionsproject.com) funded by the [John Templeton Foundation](http://www.templeton.org/) and based at Cambridge's [Faculty of Philosophy](http://www.phil.cam.ac.uk).
 
 My main areas of research and teaching are the philosophy of mind & psychology and metaphysics & epistemology. I also have a strong interest in various aspects of the history of philosophy. To find out more about my work please see my [Research Page](http://craigafrench.github.io/research/) and my [CV](http://craigafrench.github.io/assets/CraigFrenchCV.pdf). My [Talks Page](http://craigafrench.github.io/talks/) has a list of recent and upcoming talks.
 
