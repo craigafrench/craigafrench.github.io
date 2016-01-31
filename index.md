@@ -10,6 +10,6 @@ In September 2016 I'll be joining the [Department of Philosophy at the Universit
 
 My main areas of research and teaching are the philosophy of mind & psychology and metaphysics & epistemology. I also have a strong interest in various aspects of the history of philosophy. To find out more about my work please see my [Research Page](http://craigafrench.github.io/research/) and my [CV](http://craigafrench.github.io/assets/CraigFrenchCV.pdf). My [Talks Page](http://craigafrench.github.io/talks/) has a list of recent and upcoming talks.
 
-To get in touch please send me an [email](mailto:{{ site.email }}) or follow me on [Twitter](http://www.twitter.com/earlymodphil). If you would like to see some of my photos -- of friends, dogs, books, Cambridge, etc -- then please add me on [Instagram](http://www.instagram.com/craigfrench1) or [Flickr](http://www.flickr.com/photos/craigfrench/albums).
+To get in touch please send me an [email](mailto:{{ site.email }}) or follow me on [Twitter](http://www.twitter.com/craigafrench). If you would like to see some of my photos -- of friends, dogs, books, Cambridge, etc -- then please add me on [Instagram](http://www.instagram.com/craigfrench1) or [Flickr](http://www.flickr.com/photos/craigfrench/albums).
 
 This website is based on that of my philosopher friend [Maarten Steenhagen](http://msteenhagen.github.io/).
