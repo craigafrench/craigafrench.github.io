@@ -37,7 +37,7 @@ input,select{
 	}
 
 a img{
-	border:0
+	border:50
 	}
 
 :focus{
@@ -61,8 +61,8 @@ body{
 	}
 
 img{
-	width:72px;
-	height:72px;
+	width:100%;
+	height:auto;
 	display:block
 	}
 
